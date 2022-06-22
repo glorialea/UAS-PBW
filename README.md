@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Fitur Project Laravel
+
+Dalam project ini memiliki banyak fitur yang ada, seperti berikut :
+
+- Login
+- Create Read Update & Delete Data Mahasiswa & Dosen
+- Create Read Update & Delete Data User
+- Seeding
+- Faker
+- REST API
+- Logout
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
